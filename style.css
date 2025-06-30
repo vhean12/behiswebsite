@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background: #333;
+  background: url('your-gif.gif') no-repeat center center/cover;
   color: #fff;
   padding: 10px 20px;
 }
